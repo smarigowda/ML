@@ -45,15 +45,16 @@ https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 <strong><h2>`Jupyter Notebook`</h2></strong>
 https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
 
-`Hackathon`  
+<strong><h2>`Hackathon`</h2></strong>
 https://datahack.analyticsvidhya.com/contest/all/  
 https://www.youtube.com/watch?v=QQduXsftFbE
 
-`Guided Community Hackathons`  
+<strong><h2>`Guided Community Hackathons`</h2></strong>
 https://datahack.analyticsvidhya.com/contest/hacklive-4-guided-community-hackathon/
 
-`Google Colab`  
+<strong><h2>`Google Colab`</h2></strong>
 https://colab.research.google.com/
 
-`Platforms`  
+<strong><h2>`Platforms` </h2></strong>
+
 https://www.kaggle.com/
