@@ -22,7 +22,7 @@ https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference#:~:t
 
 # F1 - Score
 
-## Precision vs Recall – An Intuitive Guide for Every Machine Learning Person
+## Precision vs Recall
 
 https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/
 
