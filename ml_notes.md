@@ -24,7 +24,8 @@ https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/
 
 # ROC / AUC
 
-https://www.youtube.com/watch?v=4jRBRDbJemM -- Stat Quest
+- https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+- https://www.youtube.com/watch?v=4jRBRDbJemM
 
 # Elastic Net
 
