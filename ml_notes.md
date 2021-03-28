@@ -47,6 +47,7 @@ https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
 
 `Hackathon`  
 https://datahack.analyticsvidhya.com/contest/all/
+
 https://www.youtube.com/watch?v=QQduXsftFbE
 
 `Guided Community Hackathons`  
