@@ -10,9 +10,9 @@ https://www.youtube.com/watch?v=Kdsp6soqA7o
 
 # Precision
 
-# Recall
+# Sensitivity (or Recall) v/s Specificity - Evaluation Metrics
 
-# Sensitivity v/s Specificity
+`Sensitivity and Specificity are ML metrics used to evaluate the performance of ML models`
 
 https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference#:~:text=Specificity%20is%20defined%20as%20the,called%20a%20false%20positive%20rate
 
@@ -42,14 +42,18 @@ https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 # Other Links
 
-`Installing Jupyter Notebook`
-
+`Installing Jupyter Notebook`  
 https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
 
-`Hackathon`
-
+`Hackathon`  
 https://datahack.analyticsvidhya.com/contest/all/
 https://www.youtube.com/watch?v=QQduXsftFbE
 
-`Guided Community Hackathons`
+`Guided Community Hackathons`  
 https://datahack.analyticsvidhya.com/contest/hacklive-4-guided-community-hackathon/
+
+`Google Colab`  
+https://colab.research.google.com/
+
+`Platforms`  
+https://www.kaggle.com/
