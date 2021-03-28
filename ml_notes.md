@@ -1,6 +1,13 @@
 # Confusion Matrix
 
+## Read:
+
 https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?utm_source=blog&utm_medium=auc-roc-curve-machine-learning
+
+## Watch:
+
+This video clealy explains the use of Confusion Matrix. It is very important to understand what is Confusion Matrix and why it is used.
+https://www.youtube.com/watch?v=Kdsp6soqA7o - Stat Quest
 
 # Accuracy
 
