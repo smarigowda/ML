@@ -1,6 +1,6 @@
 # Confusion Matrix
 
-`It is very important to understand what is Confusion Matrix and how it is used. Above video is from Stat Quest. It clealy explains the use of Confusion Matrix`
+`Confusion Matrix is the core of many other metrics ex: Sensitivity, Specificity, Accuracy etc..., so it is extremely important to clearly understand Confusion Matrix`
 
 https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?utm_source=blog&utm_medium=auc-roc-curve-machine-learning
 
