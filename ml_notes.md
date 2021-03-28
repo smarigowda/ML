@@ -42,7 +42,7 @@ https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 # Other Links
 
-<strong>`Installing Jupyter Notebook`</strong>  
+<strong><h2>`Jupyter Notebook`</h2></strong>
 https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
 
 `Hackathon`  
