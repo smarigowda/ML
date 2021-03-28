@@ -16,7 +16,9 @@ This video from Stat Quest clealy explains the use of Confusion Matrix. It is ve
 
 # Recall
 
-# Specificity
+# Sensitivity v/s Specificity
+
+`https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference#:~:text=Specificity%20is%20defined%20as%20the,called%20a%20false%20positive%20rate`
 
 # F1 - Score
 
