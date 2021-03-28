@@ -1,14 +1,10 @@
 # Confusion Matrix
 
-## Read:
-
 https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?utm_source=blog&utm_medium=auc-roc-curve-machine-learning
-
-## Watch:
 
 https://www.youtube.com/watch?v=Kdsp6soqA7o
 
-This video from Stat Quest clealy explains the use of Confusion Matrix. It is very important to understand what is Confusion Matrix and why it is used.
+`It is very important to understand what is Confusion Matrix and how it is used. Above video is from Stat Quest. It clealy explains the use of Confusion Matrix. `
 
 # Accuracy
 
@@ -44,13 +40,13 @@ https://www.youtube.com/watch?v=PHxYNGo8NcI
 
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
-# Tools
+# Other Links
 
-## Installing Jupyter Notebook
+`Installing Jupyter Notebook`
 
 https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
 
-## Other Links
+`Hackathon`
 
 https://datahack.analyticsvidhya.com/contest/all/
 https://www.youtube.com/watch?v=QQduXsftFbE
