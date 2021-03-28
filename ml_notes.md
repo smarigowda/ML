@@ -46,8 +46,7 @@ https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
 
 `Hackathon`  
-https://datahack.analyticsvidhya.com/contest/all/
-
+https://datahack.analyticsvidhya.com/contest/all/  
 https://www.youtube.com/watch?v=QQduXsftFbE
 
 `Guided Community Hackathons`  
