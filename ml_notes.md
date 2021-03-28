@@ -1,10 +1,12 @@
 # Confusion Matrix
 
-`Confusion Matrix is the core of many other metrics ex: Sensitivity, Specificity, Accuracy etc..., so it is extremely important to clearly understand Confusion Matrix`
+`Confusion Matrix is the core of many other metrics ex: Sensitivity, Specificity, Accuracy etc.., so it is extremely important to clearly understand Confusion Matrix`
 
-https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?utm_source=blog&utm_medium=auc-roc-curve-machine-learning
+`Confusion Matrix provides performance measurement for machine learning classification`
 
-https://www.youtube.com/watch?v=Kdsp6soqA7o
+- https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?utm_source=blog&utm_medium=auc-roc-curve-machine-learning
+- https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+- https://www.youtube.com/watch?v=Kdsp6soqA7o
 
 # Accuracy
 
