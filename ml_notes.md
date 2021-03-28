@@ -27,3 +27,28 @@ https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/
 # ROC / AUC
 
 https://www.youtube.com/watch?v=4jRBRDbJemM -- Stat Quest
+
+# Elastic Net
+
+https://www.youtube.com/watch?v=1dKRdX9bfIo
+
+# ML Algorithms
+
+## Decision Tree
+
+https://www.youtube.com/watch?v=PHxYNGo8NcI
+
+## Random Forest
+
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+
+# Tools
+
+## Installing Jupyter Notebook
+
+https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
+
+## Other Links
+
+https://datahack.analyticsvidhya.com/contest/all/
+https://www.youtube.com/watch?v=QQduXsftFbE
