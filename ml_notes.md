@@ -6,8 +6,9 @@ https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?
 
 ## Watch:
 
-This video clealy explains the use of Confusion Matrix. It is very important to understand what is Confusion Matrix and why it is used.
-https://www.youtube.com/watch?v=Kdsp6soqA7o - Stat Quest
+https://www.youtube.com/watch?v=Kdsp6soqA7o
+
+This video from Stat Quest clealy explains the use of Confusion Matrix. It is very important to understand what is Confusion Matrix and why it is used.
 
 # Accuracy
 
