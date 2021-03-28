@@ -1,10 +1,10 @@
 # Confusion Matrix
 
+`It is very important to understand what is Confusion Matrix and how it is used. Above video is from Stat Quest. It clealy explains the use of Confusion Matrix`
+
 https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?utm_source=blog&utm_medium=auc-roc-curve-machine-learning
 
 https://www.youtube.com/watch?v=Kdsp6soqA7o
-
-`It is very important to understand what is Confusion Matrix and how it is used. Above video is from Stat Quest. It clealy explains the use of Confusion Matrix. `
 
 # Accuracy
 
