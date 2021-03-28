@@ -17,5 +17,5 @@ https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/?
 https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/
 
 # ROC / AUC
-## Stat Quest:
-https://www.youtube.com/watch?v=4jRBRDbJemM
+
+https://www.youtube.com/watch?v=4jRBRDbJemM -- Stat Quest
