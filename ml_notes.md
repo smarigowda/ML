@@ -12,13 +12,15 @@
 
 # Precision
 
-# Sensitivity (or Recall) v/s Specificity - Evaluation Metrics
+# TPR/ Sensitivity/ Recall v/s TNR/ Specificity - Evaluation Metrics
 
-`Sensitivity and Specificity are ML metrics used to evaluate the performance of ML models`
+`Sensitivity and Specificity are ML metrics used to evaluate the performance of ML models. They are inversly proportional`
 
 https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference#:~:text=Specificity%20is%20defined%20as%20the,called%20a%20false%20positive%20rate
 
 # F1 - Score
+
+`F1 score is a measure of both Sensitivity and Specificity at the same time. It is a Harmonic mean, punishes extreme values more`
 
 ## Precision vs Recall
 
@@ -26,7 +28,11 @@ https://www.analyticsvidhya.com/blog/2020/09/precision-recall-machine-learning/
 
 # ROC / AUC
 
-- https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+`It is one of the most important evaluation metric to evaluate the performance of any classification model at various threshold settings. It represents the degreee of separability. It tells how much the model is capable of distinguishing between classes. Higher the AUC, the better the model is at predicting 0s as 0s and 1s as 1s. By analogy, the Higher the AUC, the better the model is at distinguishing between patients with the disease and no disease`
+
+`ROC is a curve of probability`
+
+- https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5 - read this first
 - https://www.youtube.com/watch?v=4jRBRDbJemM
 
 # Elastic Net
